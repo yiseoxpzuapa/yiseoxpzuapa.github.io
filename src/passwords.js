@@ -20,6 +20,11 @@ const passwords = [
     {
         pass: "juggernaut",
         page: "https://www.roblox.com/catalog/20945159/Chill-Classic"
+    },
+
+    {
+        pass: "projects",
+        page: "" //hol up
     }
 
 ];

@@ -10,3 +10,25 @@ h4 {
 a {
     color: rgb(180, 224, 245);
 }
+
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+samp {
+    color: rgb(72, 255, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+small {
+    color: rgb(255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
