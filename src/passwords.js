@@ -18,7 +18,7 @@ const passwords = [
     },
 
     {
-        pass: "project",
+        pass: "projects1",
         page: "https://yiseoxpzuapa.github.io/projects.html"
     },
 
