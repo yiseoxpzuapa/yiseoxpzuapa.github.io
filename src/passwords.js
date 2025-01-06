@@ -15,12 +15,13 @@ const passwords = [
     {
         pass: "youtube",
         page: "https://www.youtube.com/@skeletrix1233"
-    }
+    },
 
     {
         pass: "juggernaut",
         page: "https://www.roblox.com/catalog/20945159/Chill-Classic"
     }
+
 ];
 
 
