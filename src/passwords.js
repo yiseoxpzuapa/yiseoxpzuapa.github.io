@@ -33,10 +33,12 @@ const passwords = [
 function checkPswd() {
     const passInput = document.getElementById("pswd").value;
     const passMatch = passwords.find(o => o.pass === passInput);
-  
+
     if (passMatch ) {
         window.location = `${passMatch.page}`;
+        console.log("User entered correct password(s)")
     } else {
-        alert("Passwords do not match.");
+        console.error("User entered wrong password(s)");
+        alert("wrong!")
     }
 }
