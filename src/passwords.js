@@ -27,6 +27,11 @@ const passwords = [
         page: "https://yiseoxpzuapa.github.io/luapublications.html"
     },
 
+    {
+        pass: "change",
+        page: "https://yiseoxpzuapa.github.io/changelog.html"
+    },
+
 ];
 
 
