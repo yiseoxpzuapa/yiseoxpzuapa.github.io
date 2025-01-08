@@ -32,6 +32,11 @@ const passwords = [
         page: "https://yiseoxpzuapa.github.io/changelog.html"
     },
 
+    {
+        pass: "vidmirror",
+        page: "https://yiseoxpzuapa.github.io/videomirror.html"
+    },
+
 ];
 
 
