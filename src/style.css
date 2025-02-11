@@ -32,3 +32,15 @@ small {
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
 }
+
+.hi {
+    background-color: black;
+    outline: 0cap;
+    color: white;
+}
+
+.test {
+    background-color: black;
+    outline: 0cap;
+    color: white;
+}
