@@ -14,7 +14,7 @@ const passwords = [
 
     {
         pass: "youtube",
-        page: "https://www.youtube.com/@skeletrix1233"
+        page: "https://www.youtube.com/@yungbludarchives"
     },
 
     {
