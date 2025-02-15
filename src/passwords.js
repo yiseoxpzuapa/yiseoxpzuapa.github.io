@@ -51,9 +51,7 @@ function checkPswd() {
 
     if (passMatch ) {
         window.location = `${passMatch.page}`;
-        console.log("User entered correct password(s)")
     } else {
-        console.error("User entered wrong password(s)");
         alert("wrong!")
     }
 }
