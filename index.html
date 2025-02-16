@@ -13,9 +13,10 @@
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <link rel="stylesheet" href="src/style.css">
     <script type="text/javascript" src="src/passwords.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </head>
 
-<body lang="en">
+<body lang="en" onload="blinker()" loading="lazy">
 
     <div class="scripts">
 
@@ -24,13 +25,29 @@
             console.warn("To know if this website is still up and running, check if these messages are here! If not, its under construction or something went wrong.")
         </script>
 
+        <script>
+            //totally not . Stackoverlfowed (ummm https://stackoverflow.com/questions/27638468/make-placeholder-text-inside-html-text-field-blink)
+    
+            function blinker() {
+
+    if ($('input[type=text]').attr('placeholder')) {
+    // get the placeholder text
+     $('input[type=text]').attr('placeholder', '');
+    } else {
+    $('input[type=text]').attr('placeholder', '|');
+  }
+
+setTimeout(blinker, 400);
+
+}
+        </script>
     </div>
 
     <div class="main">
 
         <h4>Sewnie Systems Command Prompt</h4>
         <h4> Need help? click <a href="list.txt">HERE</a> for a list of commands!</h4>
-        <input type="text" id="pswd" class="hi" placeholder="|" class="SAYWHAT"> <input type="button" value="Enter :-)" onclick="checkPswd();" class="test"/>
+        <input type="text" id="pswd" class="hi" placeholder="|" class="SAYWHAT" onclick="blinker()"> <input type="button" value="Enter :-)" onclick="checkPswd();" class="test"/>
 
     </div>
 </body>
