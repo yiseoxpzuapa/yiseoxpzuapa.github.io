@@ -39,7 +39,7 @@ const passwords = [
 
     {
         pass: "crashout",
-        page: "https://yiseoxpzuapa.github.io/img/crashout.png" // this is cuz rice was being a massiv dick to my friend 
+        page: "https://yiseoxpzuapa.github.io/img/crashout.png" // this is cuz rice was being a massiv dick to my friend     If u see this rice haiii ;3   DONT BE DICKS TO MY FRIENDS YOUR STILL COOL THO!!!!!!
     },
 
 ];
