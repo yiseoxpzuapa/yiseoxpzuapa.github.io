@@ -4,11 +4,14 @@ const passwords = [
         page: "https://www.roblox.com/users/7009510135/profile"
     },
 
+<<<<<<< HEAD
     {
         pass: "sewnie",
         page: "https://yiseoxpzuapa.github.io/meow.txt"
     },
     
+=======
+>>>>>>> 6bc3a62482a33b409fd689c62d60a5c236e6c102
     {
         pass: "marbles",
         page: "https://yiseoxpzuapa.github.io/marbleracefun/"
