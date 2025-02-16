@@ -3,6 +3,11 @@ const passwords = [
         pass: "roblox",
         page: "https://www.roblox.com/users/7009510135/profile"
     },
+
+    {
+        pass: "sewnie",
+        page: "https://yiseoxpzuapa.github.io/meow.txt"
+    },
     
     {
         pass: "marbles",
