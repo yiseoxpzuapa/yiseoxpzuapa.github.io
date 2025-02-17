@@ -47,3 +47,8 @@ small {
     outline: 0cap;
     color: white;
 }
+
+.idl {
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
