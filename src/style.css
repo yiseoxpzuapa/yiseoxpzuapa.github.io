@@ -14,6 +14,10 @@ a {
     cursor: crosshair;
 }
 
+a:hover {
+    background-color: rgb(42, 61, 165);
+}
+
 h1 {
     color: white;
     font-family: 'Courier New', Courier, monospace;
