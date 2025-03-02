@@ -28,6 +28,12 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h5 {
+    color: rgb(75, 75, 75);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
 samp {
     color: rgb(72, 255, 0);
     font-family: 'Courier New', Courier, monospace;
