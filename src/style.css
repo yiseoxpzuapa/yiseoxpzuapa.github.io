@@ -62,3 +62,8 @@ small {
     color: yellow;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.ende {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
