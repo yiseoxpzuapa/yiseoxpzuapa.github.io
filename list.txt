@@ -6,6 +6,5 @@ youtube
 project
 lua
 change
-vidmirror
 gitgay
 
