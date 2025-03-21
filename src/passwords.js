@@ -5,11 +5,6 @@ const passwords = [
     },
     
     {
-        pass: "sewnie",
-        page: "https://yiseoxpzuapa.github.io/meow.txt"
-    },
-    
-    {
         pass: "marbles",
         page: "https://yiseoxpzuapa.github.io/marbleracefun/"
     },
