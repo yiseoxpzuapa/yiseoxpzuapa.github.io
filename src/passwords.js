@@ -35,11 +35,6 @@ const passwords = [
     },
 
     {
-        pass: "vidmirror",
-        page: "https://yiseoxpzuapa.github.io/videomirror.html"
-    },
-
-    {
         pass: "gitgay",
         page: "https://git.gay/yiseoxpzuapa"
     },
