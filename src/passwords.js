@@ -33,6 +33,11 @@ const passwords = [
         pass: "gitgay",
         page: "https://git.gay/yiseoxpzuapa"
     },
+    
+    {
+        pass: "petscopkids",
+        page: "https://yiseoxpzuapa.github.io/petscopkids/"
+    },
 
 ];
 
